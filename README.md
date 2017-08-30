@@ -2,3 +2,5 @@
 ## Introduction to Computing
 
 We are starting September 4, 2017
+
+Team
